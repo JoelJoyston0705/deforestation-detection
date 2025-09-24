@@ -23,3 +23,10 @@ Detect areas of deforestation from satellite imagery using deep learning.
 - Segmentation maps highlight deforested zones
 
 
+## ✨ Future Work
+- Deploy with Streamlit
+- Integrate with GIS mapping tools
+
+
+
+
